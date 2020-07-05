@@ -1,0 +1,16 @@
+body {
+  background: #fff;
+}
+
+.card {
+  margin-bottom: 10px;
+}
+
+.card-img {
+  width: 100%;
+  height: auto;
+}
+
+.dn {
+  display: none;
+}
